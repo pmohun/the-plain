@@ -3,8 +3,6 @@ title: Dead But Don't Know It
 updated: 2018-11-07 8:00
 ---
 
-## Dead But Don’t Know It
-
 The practice of medicine is a one way conversation. 
 
 Doctors, physicians and researchers dedicate their lives to the pursuit of knowledge and the application of said knowledge for the purpose of improving health outcomes. To this end they are questioned and quizzed, provoked and prodded by an endless stream of patients with a dizzying range of ailments and asked “What’s the answer?”

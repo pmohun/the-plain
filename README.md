@@ -49,6 +49,8 @@ This will grab the theme directly from the GitHub repo.
 
 Now copy some of the settings from this repo's *_config.yml* file to your own, and modify them.
 
+'jekyll serve --hatch'
+
 ## Authors
 
 - [**Heiswayi Nrird**](https://heiswayi.nrird.com)
